@@ -1,0 +1,144 @@
+order_id,order_date,status,order_type,payment_method,item_id,item_name,category,quantity,unit_price,line_revenue
+1001,2026-10-11,Completed,Delivery,Cash,4,Paneer Tikka,Starters,3,229.0,687.0
+1001,2026-10-11,Completed,Delivery,Cash,3,Margherita Pizza,Pizza,1,199.0,199.0
+1002,2026-10-14,Completed,Delivery,UPI,1,Veg Burger,Fast Food,1,99.0,99.0
+1002,2026-10-14,Completed,Delivery,UPI,12,Lemon Soda,Beverages,3,59.0,177.0
+1002,2026-10-14,Completed,Delivery,UPI,2,Cheese Pizza,Pizza,3,249.0,747.0
+1002,2026-10-14,Completed,Delivery,UPI,4,Paneer Tikka,Starters,1,229.0,229.0
+1003,2026-10-06,Completed,Delivery,Card,4,Paneer Tikka,Starters,1,229.0,229.0
+1003,2026-10-06,Completed,Delivery,Card,8,Masala Dosa,South Indian,1,129.0,129.0
+1003,2026-10-06,Completed,Delivery,Card,10,Cold Coffee,Beverages,3,109.0,327.0
+1003,2026-10-06,Completed,Delivery,Card,5,French Fries,Sides,2,89.0,178.0
+1004,2026-09-22,Completed,Dine-in,Cash,2,Cheese Pizza,Pizza,2,249.0,498.0
+1005,2026-09-07,Completed,Takeaway,Card,1,Veg Burger,Fast Food,1,99.0,99.0
+1005,2026-09-07,Completed,Takeaway,Card,8,Masala Dosa,South Indian,2,129.0,258.0
+1005,2026-09-07,Completed,Takeaway,Card,9,Paneer Biryani,Main Course,1,239.0,239.0
+1006,2026-10-06,Completed,Delivery,Card,10,Cold Coffee,Beverages,1,109.0,109.0
+1006,2026-10-06,Completed,Delivery,Card,4,Paneer Tikka,Starters,3,229.0,687.0
+1006,2026-10-06,Completed,Delivery,Card,2,Cheese Pizza,Pizza,1,249.0,249.0
+1007,2026-09-19,Cancelled,Dine-in,UPI,5,French Fries,Sides,2,89.0,178.0
+1007,2026-09-19,Cancelled,Dine-in,UPI,8,Masala Dosa,South Indian,2,129.0,258.0
+1007,2026-09-19,Cancelled,Dine-in,UPI,6,Veg Sandwich,Fast Food,1,119.0,119.0
+1007,2026-09-19,Cancelled,Dine-in,UPI,3,Margherita Pizza,Pizza,3,199.0,597.0
+1008,2026-09-18,Completed,Delivery,Card,10,Cold Coffee,Beverages,3,109.0,327.0
+1009,2026-09-11,Completed,Dine-in,UPI,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1009,2026-09-11,Completed,Dine-in,UPI,5,French Fries,Sides,2,89.0,178.0
+1009,2026-09-11,Completed,Dine-in,UPI,9,Paneer Biryani,Main Course,1,239.0,239.0
+1009,2026-09-11,Completed,Dine-in,UPI,4,Paneer Tikka,Starters,1,229.0,229.0
+1010,2026-09-03,Completed,Takeaway,Cash,4,Paneer Tikka,Starters,3,229.0,687.0
+1011,2026-09-21,Completed,Takeaway,Cash,3,Margherita Pizza,Pizza,3,199.0,597.0
+1011,2026-09-21,Completed,Takeaway,Cash,5,French Fries,Sides,3,89.0,267.0
+1011,2026-09-21,Completed,Takeaway,Cash,12,Lemon Soda,Beverages,3,59.0,177.0
+1011,2026-09-21,Completed,Takeaway,Cash,4,Paneer Tikka,Starters,2,229.0,458.0
+1012,2026-10-08,Completed,Delivery,Cash,4,Paneer Tikka,Starters,2,229.0,458.0
+1012,2026-10-08,Completed,Delivery,Cash,3,Margherita Pizza,Pizza,1,199.0,199.0
+1012,2026-10-08,Completed,Delivery,Cash,9,Paneer Biryani,Main Course,1,239.0,239.0
+1013,2026-09-08,Completed,Dine-in,Card,10,Cold Coffee,Beverages,3,109.0,327.0
+1013,2026-09-08,Completed,Dine-in,Card,2,Cheese Pizza,Pizza,2,249.0,498.0
+1013,2026-09-08,Completed,Dine-in,Card,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1013,2026-09-08,Completed,Dine-in,Card,12,Lemon Soda,Beverages,2,59.0,118.0
+1014,2026-10-06,Cancelled,Dine-in,Card,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1015,2026-09-18,Completed,Takeaway,UPI,7,White Sauce Pasta,Pasta,1,219.0,219.0
+1015,2026-09-18,Completed,Takeaway,UPI,3,Margherita Pizza,Pizza,3,199.0,597.0
+1015,2026-09-18,Completed,Takeaway,UPI,8,Masala Dosa,South Indian,3,129.0,387.0
+1016,2026-09-17,Cancelled,Dine-in,Card,11,Chocolate Brownie,Desserts,2,99.0,198.0
+1017,2026-10-11,Completed,Dine-in,UPI,3,Margherita Pizza,Pizza,1,199.0,199.0
+1017,2026-10-11,Completed,Dine-in,UPI,9,Paneer Biryani,Main Course,3,239.0,717.0
+1017,2026-10-11,Completed,Dine-in,UPI,11,Chocolate Brownie,Desserts,2,99.0,198.0
+1018,2026-10-02,Completed,Takeaway,Cash,1,Veg Burger,Fast Food,3,99.0,297.0
+1018,2026-10-02,Completed,Takeaway,Cash,4,Paneer Tikka,Starters,1,229.0,229.0
+1019,2026-09-06,Completed,Dine-in,Card,3,Margherita Pizza,Pizza,2,199.0,398.0
+1019,2026-09-06,Completed,Dine-in,Card,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1020,2026-09-11,Completed,Delivery,Cash,9,Paneer Biryani,Main Course,3,239.0,717.0
+1020,2026-09-11,Completed,Delivery,Cash,4,Paneer Tikka,Starters,2,229.0,458.0
+1021,2026-09-26,Cancelled,Delivery,Cash,9,Paneer Biryani,Main Course,1,239.0,239.0
+1021,2026-09-26,Cancelled,Delivery,Cash,8,Masala Dosa,South Indian,1,129.0,129.0
+1021,2026-09-26,Cancelled,Delivery,Cash,2,Cheese Pizza,Pizza,2,249.0,498.0
+1021,2026-09-26,Cancelled,Delivery,Cash,4,Paneer Tikka,Starters,1,229.0,229.0
+1022,2026-10-08,Completed,Delivery,UPI,2,Cheese Pizza,Pizza,3,249.0,747.0
+1023,2026-10-11,Completed,Dine-in,UPI,2,Cheese Pizza,Pizza,2,249.0,498.0
+1023,2026-10-11,Completed,Dine-in,UPI,9,Paneer Biryani,Main Course,3,239.0,717.0
+1023,2026-10-11,Completed,Dine-in,UPI,4,Paneer Tikka,Starters,2,229.0,458.0
+1024,2026-09-14,Completed,Delivery,Card,4,Paneer Tikka,Starters,1,229.0,229.0
+1024,2026-09-14,Completed,Delivery,Card,8,Masala Dosa,South Indian,1,129.0,129.0
+1024,2026-09-14,Completed,Delivery,Card,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1024,2026-09-14,Completed,Delivery,Card,12,Lemon Soda,Beverages,2,59.0,118.0
+1025,2026-09-23,Completed,Takeaway,Card,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1026,2026-10-12,Completed,Takeaway,Card,2,Cheese Pizza,Pizza,1,249.0,249.0
+1026,2026-10-12,Completed,Takeaway,Card,4,Paneer Tikka,Starters,3,229.0,687.0
+1026,2026-10-12,Completed,Takeaway,Card,11,Chocolate Brownie,Desserts,2,99.0,198.0
+1027,2026-09-09,Completed,Takeaway,Cash,2,Cheese Pizza,Pizza,3,249.0,747.0
+1027,2026-09-09,Completed,Takeaway,Cash,8,Masala Dosa,South Indian,1,129.0,129.0
+1028,2026-09-04,Completed,Delivery,UPI,4,Paneer Tikka,Starters,1,229.0,229.0
+1029,2026-09-27,Completed,Dine-in,Cash,3,Margherita Pizza,Pizza,2,199.0,398.0
+1030,2026-09-01,Cancelled,Takeaway,Cash,7,White Sauce Pasta,Pasta,1,219.0,219.0
+1030,2026-09-01,Cancelled,Takeaway,Cash,9,Paneer Biryani,Main Course,1,239.0,239.0
+1030,2026-09-01,Cancelled,Takeaway,Cash,8,Masala Dosa,South Indian,2,129.0,258.0
+1031,2026-09-14,Cancelled,Delivery,Card,12,Lemon Soda,Beverages,2,59.0,118.0
+1032,2026-09-04,Completed,Takeaway,Card,1,Veg Burger,Fast Food,1,99.0,99.0
+1032,2026-09-04,Completed,Takeaway,Card,9,Paneer Biryani,Main Course,1,239.0,239.0
+1033,2026-09-05,Completed,Delivery,UPI,2,Cheese Pizza,Pizza,3,249.0,747.0
+1033,2026-09-05,Completed,Delivery,UPI,10,Cold Coffee,Beverages,1,109.0,109.0
+1033,2026-09-05,Completed,Delivery,UPI,4,Paneer Tikka,Starters,2,229.0,458.0
+1033,2026-09-05,Completed,Delivery,UPI,1,Veg Burger,Fast Food,3,99.0,297.0
+1034,2026-10-08,Completed,Takeaway,Cash,11,Chocolate Brownie,Desserts,1,99.0,99.0
+1034,2026-10-08,Completed,Takeaway,Cash,6,Veg Sandwich,Fast Food,2,119.0,238.0
+1035,2026-09-26,Completed,Delivery,Cash,6,Veg Sandwich,Fast Food,3,119.0,357.0
+1035,2026-09-26,Completed,Delivery,Cash,2,Cheese Pizza,Pizza,3,249.0,747.0
+1035,2026-09-26,Completed,Delivery,Cash,1,Veg Burger,Fast Food,1,99.0,99.0
+1035,2026-09-26,Completed,Delivery,Cash,8,Masala Dosa,South Indian,1,129.0,129.0
+1036,2026-10-05,Completed,Takeaway,UPI,2,Cheese Pizza,Pizza,2,249.0,498.0
+1036,2026-10-05,Completed,Takeaway,UPI,4,Paneer Tikka,Starters,1,229.0,229.0
+1036,2026-10-05,Completed,Takeaway,UPI,6,Veg Sandwich,Fast Food,2,119.0,238.0
+1037,2026-10-05,Completed,Delivery,Card,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1038,2026-09-20,Cancelled,Dine-in,UPI,2,Cheese Pizza,Pizza,1,249.0,249.0
+1038,2026-09-20,Cancelled,Dine-in,UPI,12,Lemon Soda,Beverages,2,59.0,118.0
+1038,2026-09-20,Cancelled,Dine-in,UPI,9,Paneer Biryani,Main Course,2,239.0,478.0
+1039,2026-10-09,Completed,Takeaway,UPI,9,Paneer Biryani,Main Course,1,239.0,239.0
+1039,2026-10-09,Completed,Takeaway,UPI,8,Masala Dosa,South Indian,1,129.0,129.0
+1039,2026-10-09,Completed,Takeaway,UPI,5,French Fries,Sides,3,89.0,267.0
+1040,2026-09-28,Completed,Dine-in,UPI,3,Margherita Pizza,Pizza,1,199.0,199.0
+1040,2026-09-28,Completed,Dine-in,UPI,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1040,2026-09-28,Completed,Dine-in,UPI,5,French Fries,Sides,2,89.0,178.0
+1041,2026-10-06,Completed,Delivery,UPI,2,Cheese Pizza,Pizza,3,249.0,747.0
+1042,2026-09-10,Completed,Takeaway,Card,7,White Sauce Pasta,Pasta,1,219.0,219.0
+1042,2026-09-10,Completed,Takeaway,Card,3,Margherita Pizza,Pizza,2,199.0,398.0
+1043,2026-09-24,Cancelled,Dine-in,Cash,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1043,2026-09-24,Cancelled,Dine-in,Cash,4,Paneer Tikka,Starters,1,229.0,229.0
+1044,2026-09-23,Completed,Takeaway,Card,4,Paneer Tikka,Starters,1,229.0,229.0
+1044,2026-09-23,Completed,Takeaway,Card,3,Margherita Pizza,Pizza,2,199.0,398.0
+1045,2026-09-02,Completed,Takeaway,Cash,5,French Fries,Sides,3,89.0,267.0
+1045,2026-09-02,Completed,Takeaway,Cash,3,Margherita Pizza,Pizza,1,199.0,199.0
+1046,2026-09-25,Cancelled,Takeaway,UPI,8,Masala Dosa,South Indian,2,129.0,258.0
+1046,2026-09-25,Cancelled,Takeaway,UPI,6,Veg Sandwich,Fast Food,1,119.0,119.0
+1047,2026-09-15,Completed,Dine-in,Cash,5,French Fries,Sides,2,89.0,178.0
+1047,2026-09-15,Completed,Dine-in,Cash,2,Cheese Pizza,Pizza,3,249.0,747.0
+1047,2026-09-15,Completed,Dine-in,Cash,12,Lemon Soda,Beverages,3,59.0,177.0
+1048,2026-09-26,Completed,Delivery,Cash,2,Cheese Pizza,Pizza,2,249.0,498.0
+1049,2026-09-12,Completed,Takeaway,UPI,10,Cold Coffee,Beverages,2,109.0,218.0
+1050,2026-09-23,Completed,Takeaway,Cash,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1051,2026-09-13,Completed,Delivery,Cash,9,Paneer Biryani,Main Course,3,239.0,717.0
+1052,2026-10-14,Completed,Delivery,Card,6,Veg Sandwich,Fast Food,1,119.0,119.0
+1052,2026-10-14,Completed,Delivery,Card,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1053,2026-09-22,Completed,Delivery,UPI,9,Paneer Biryani,Main Course,2,239.0,478.0
+1053,2026-09-22,Completed,Delivery,UPI,5,French Fries,Sides,2,89.0,178.0
+1053,2026-09-22,Completed,Delivery,UPI,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1054,2026-09-19,Completed,Dine-in,Cash,11,Chocolate Brownie,Desserts,2,99.0,198.0
+1054,2026-09-19,Completed,Dine-in,Cash,3,Margherita Pizza,Pizza,3,199.0,597.0
+1054,2026-09-19,Completed,Dine-in,Cash,10,Cold Coffee,Beverages,1,109.0,109.0
+1054,2026-09-19,Completed,Dine-in,Cash,5,French Fries,Sides,2,89.0,178.0
+1055,2026-09-19,Completed,Delivery,Card,8,Masala Dosa,South Indian,3,129.0,387.0
+1055,2026-09-19,Completed,Delivery,Card,12,Lemon Soda,Beverages,1,59.0,59.0
+1055,2026-09-19,Completed,Delivery,Card,11,Chocolate Brownie,Desserts,3,99.0,297.0
+1056,2026-10-01,Completed,Delivery,UPI,5,French Fries,Sides,3,89.0,267.0
+1057,2026-10-13,Completed,Takeaway,UPI,11,Chocolate Brownie,Desserts,1,99.0,99.0
+1057,2026-10-13,Completed,Takeaway,UPI,5,French Fries,Sides,1,89.0,89.0
+1058,2026-09-10,Completed,Dine-in,Cash,8,Masala Dosa,South Indian,2,129.0,258.0
+1059,2026-10-11,Completed,Delivery,Card,8,Masala Dosa,South Indian,3,129.0,387.0
+1059,2026-10-11,Completed,Delivery,Card,7,White Sauce Pasta,Pasta,3,219.0,657.0
+1059,2026-10-11,Completed,Delivery,Card,4,Paneer Tikka,Starters,1,229.0,229.0
+1059,2026-10-11,Completed,Delivery,Card,3,Margherita Pizza,Pizza,1,199.0,199.0
+1060,2026-09-28,Completed,Delivery,Card,1,Veg Burger,Fast Food,2,99.0,198.0
+1060,2026-09-28,Completed,Delivery,Card,9,Paneer Biryani,Main Course,1,239.0,239.0
+1060,2026-09-28,Completed,Delivery,Card,4,Paneer Tikka,Starters,2,229.0,458.0
+1060,2026-09-28,Completed,Delivery,Card,2,Cheese Pizza,Pizza,3,249.0,747.0
