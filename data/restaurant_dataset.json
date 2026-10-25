@@ -1,0 +1,238 @@
+```json
+{
+  "restaurant": {
+    "name": "Food Hub",
+    "location": "Mumbai, India"
+  },
+  "menu": [
+    {
+      "item_id": 1,
+      "item_name": "Margherita Pizza",
+      "category": "Pizza",
+      "price": 249
+    },
+    {
+      "item_id": 2,
+      "item_name": "Farmhouse Pizza",
+      "category": "Pizza",
+      "price": 349
+    },
+    {
+      "item_id": 3,
+      "item_name": "Veg Burger",
+      "category": "Burger",
+      "price": 129
+    },
+    {
+      "item_id": 4,
+      "item_name": "Cheese Burger",
+      "category": "Burger",
+      "price": 179
+    },
+    {
+      "item_id": 5,
+      "item_name": "French Fries",
+      "category": "Sides",
+      "price": 99
+    },
+    {
+      "item_id": 6,
+      "item_name": "Paneer Wrap",
+      "category": "Wraps",
+      "price": 159
+    },
+    {
+      "item_id": 7,
+      "item_name": "Cold Coffee",
+      "category": "Beverages",
+      "price": 119
+    },
+    {
+      "item_id": 8,
+      "item_name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 89
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1001,
+      "order_date": "2026-09-01",
+      "customer_id": 501,
+      "items": [
+        {
+          "item_id": 1,
+          "quantity": 2
+        },
+        {
+          "item_id": 5,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "UPI",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1002,
+      "order_date": "2026-09-02",
+      "customer_id": 502,
+      "items": [
+        {
+          "item_id": 3,
+          "quantity": 2
+        },
+        {
+          "item_id": 7,
+          "quantity": 2
+        }
+      ],
+      "payment_method": "Card",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1003,
+      "order_date": "2026-09-03",
+      "customer_id": 503,
+      "items": [
+        {
+          "item_id": 2,
+          "quantity": 1
+        },
+        {
+          "item_id": 8,
+          "quantity": 2
+        }
+      ],
+      "payment_method": "Cash",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1004,
+      "order_date": "2026-09-04",
+      "customer_id": 504,
+      "items": [
+        {
+          "item_id": 4,
+          "quantity": 2
+        },
+        {
+          "item_id": 5,
+          "quantity": 2
+        }
+      ],
+      "payment_method": "UPI",
+      "status": "Cancelled"
+    },
+    {
+      "order_id": 1005,
+      "order_date": "2026-09-05",
+      "customer_id": 505,
+      "items": [
+        {
+          "item_id": 6,
+          "quantity": 3
+        },
+        {
+          "item_id": 7,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "Card",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1006,
+      "order_date": "2026-09-06",
+      "customer_id": 506,
+      "items": [
+        {
+          "item_id": 1,
+          "quantity": 1
+        },
+        {
+          "item_id": 3,
+          "quantity": 1
+        },
+        {
+          "item_id": 8,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "UPI",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1007,
+      "order_date": "2026-09-07",
+      "customer_id": 507,
+      "items": [
+        {
+          "item_id": 2,
+          "quantity": 2
+        },
+        {
+          "item_id": 5,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "Cash",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1008,
+      "order_date": "2026-09-08",
+      "customer_id": 508,
+      "items": [
+        {
+          "item_id": 4,
+          "quantity": 1
+        },
+        {
+          "item_id": 6,
+          "quantity": 2
+        }
+      ],
+      "payment_method": "Card",
+      "status": "Completed"
+    },
+    {
+      "order_id": 1009,
+      "order_date": "2026-09-09",
+      "customer_id": 509,
+      "items": [
+        {
+          "item_id": 1,
+          "quantity": 1
+        },
+        {
+          "item_id": 7,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "UPI",
+      "status": "Cancelled"
+    },
+    {
+      "order_id": 1010,
+      "order_date": "2026-09-10",
+      "customer_id": 510,
+      "items": [
+        {
+          "item_id": 3,
+          "quantity": 3
+        },
+        {
+          "item_id": 5,
+          "quantity": 2
+        },
+        {
+          "item_id": 8,
+          "quantity": 1
+        }
+      ],
+      "payment_method": "Cash",
+      "status": "Completed"
+    }
+  ]
+}
+```
